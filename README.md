@@ -8,4 +8,4 @@ The Medals are collectible physical tokens, awarded to a member when it accompli
 
 | Picture | Series Name | Year | Qty | Description |
 | ------- | ----------- | ---- | --- | ----------- |
-| [![founding\_member pic](founding_member/pics/lowres.jpg)](founding_member/) | [`founding_member`](founding_member/) | 2023 | 7 | Medal given to the seven founding memebers who signed the articles of association |
+| [![founding\_member pic](founding_member/pics/lowres.jpg)](founding_member/) | [`founding_member`](founding_member/) | 2023 | 7 | Medal given to the seven founding members who signed the articles of association |
